@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-constance/commit/1b54273af1b9257074ac3016fcc94fd8c57f96fb",
       "git:hexsha": "1b54273af1b9257074ac3016fcc94fd8c57f96fb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-constance/commit/700f49dca174a17133811cb05b9ad4aea787061e",
